@@ -13,7 +13,7 @@ And more...
 # How to Use:
 Download the v0.1 release of the randomizer.
 
-Extract the contents and run the DragonQuestIVRandomizer.exe file.
+Extract the contents and run the .exe file.
 
 Load your .nds ROM of Dragon Quest IV DS.
 
@@ -23,5 +23,14 @@ Click on "Randomize" to begin the process!
 
 The program will , randomized the seleccted ROM based on your selected options.
 
+Tested on European ROM:
+Please note that this randomizer has been tested on the European version of the game. It may work on other ROM versions, but compatibility is not guaranteed for non-European versions.
+
 # Important Disclaimer:
 ⚠️ Randomizing Loot can take a bit longer due to the extensive changes it makes to the ROM. It may cause the program to slow down during the process, but please be patient. The program will eventually finish, and the new randomized ROM will be ready for you to enjoy.
+
+Support and Contributions:
+Feel free to open an issue or submit a pull request if you encounter bugs or have suggestions!
+Happy adventuring, and may the RNG be with you! 🌟
+
+
