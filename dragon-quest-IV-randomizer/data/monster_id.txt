@@ -1,0 +1,488 @@
+000-slime
+
+001-walking stick
+
+002-mischievous mole
+
+003-wiggly
+
+004-scissor beatle
+
+005-mouseflap
+
+006-splatypunk
+
+007-bodkin archer
+
+008-lickspittle
+
+009-bubble slime
+
+010-winkster
+
+011-firespirit
+
+012-healslime
+
+013-bagworm
+
+014-funghoul
+
+015-mad mole
+
+016-platypunk
+
+017-lugworm
+
+018-bodkin fletcher
+
+019-armoured scorpion
+
+020-air rat
+
+021-carnivine
+
+022-blinkster
+
+023-foo dog
+
+024-vampire bat
+
+025-fire beatle
+
+026-picksy
+
+027-stump chump
+
+028-winky
+
+029-terracotta warrior
+
+030-Crack-billed platypunk
+
+031-bodkin bowyer
+
+032-bantamweight
+
+033-killer gila
+
+034-restless armour
+
+035-Master Kung
+
+036-frolicker
+
+037-mushroom mage
+
+038-bullfinch
+
+039-thorny devil
+
+040-cannibox
+
+041-ratatattack
+
+042-cyclown
+
+043-metal scorpion
+
+044-pteranodon
+
+045-mandragore
+
+046-jinkster
+
+047-flyguy
+
+048-vampire battler
+
+049-lost soul
+
+050-weartiger
+
+051-infernal armour
+
+052-salamander fry
+
+053-stump grump
+
+054-featherweight
+
+055-pickayune
+
+056-whizzard
+
+057-cocoon goon
+
+058-komodo
+
+059-buffalo wing
+
+060-imp
+
+061-skeleton swordsman
+
+062-powie yowie
+
+063-erazor blade
+
+064-Venus guytrap
+
+065-peeper
+
+066-rockbomb
+
+067-wild beast
+
+068-metal slime
+
+069-lethal armour
+
+070-cureslime
+
+071-flying doctor
+
+072-mimic
+
+073-pocus poppet
+
+074-bedbug
+
+075-dragon pup
+
+076-skeleton soldier
+
+077-hoodoo gooroo
+
+078-flamethrower
+
+079-chillanodon
+
+080-abracadabrador
+
+081-rhinothrope
+
+082-liquid metal slime
+
+083-cheater cheetah
+
+084-eoraptor
+
+085-crested viper
+
+086-chicken poxer
+
+087-beleth
+
+088-sweaty yeti
+
+089-bulldozer
+
+090-freeze fly
+
+091-grim rider
+
+092-war-rus
+
+093-spitfire
+
+094-humbaba
+
+095-bloody blade
+
+096-terrorflyer
+
+097-fat bat
+
+098-minidemon
+
+099-voodoo gooroo
+
+100-hellion
+
+101-hell raiser
+
+102-rhinoceraxe
+
+103-hellspawn
+
+104-blizzybody
+
+105-podokesaurus
+
+106-cheeky tiki
+
+107-king slime
+
+108-sekerleton
+
+109-dragon rider
+
+110-elepus
+
+111-fuddlestick
+
+112-wyvern
+
+113-moosifer
+
+114-ogre
+
+115-whirly girly
+
+116-grim keeper
+
+117-green dragon
+
+118-joojoo gooroo
+
+119-bone baron
+
+120-bullion
+
+121-night emperor
+
+122-float-o-copier
+
+123-wilder beast
+
+124-king cureslime
+
+125-beelzebuzz
+
+126-pit viper
+
+127-rhinocerex
+
+128-teaky mask
+
+129-hot dog
+
+130-damselfly
+
+131-drooling ghoul
+
+132-vis mager
+
+133-abullddon
+
+134-pickeerer
+
+135-red dragon
+
+136-swingre
+
+137-sasquash
+
+138-prince of darkness
+
+139-dragooner
+
+140-metal king slime
+
+141-emperor wyvern
+
+142-demonspawn
+
+143-Pruslas
+
+144-Rashaverak
+
+145-night rider
+
+146-Aamon
+
+147-Barbatos
+
+148-man o' war
+
+149-glugworm
+
+150-strangler fish
+
+151-axolotl
+
+152-preying manta
+
+153-barracuda
+
+154-pterygotus
+
+155-devilfish
+
+156-mangler fish
+
+157-maulrus
+
+158-woolungasaurus
+
+159-sand viper
+
+160-ultraviolent ray
+
+161-terrornodon
+
+162-spinchilla
+
+163-picuda
+
+164-dangler fish
+
+165-octophant
+
+166-incineraytor
+
+167-tuskateer
+
+168-terminonatator
+
+169-slime
+
+170-Abominable Showman
+
+171-Marquis de Léon
+
+172-night clubber
+
+173-peddler
+
+174-Psaro the Manslayer
+
+175-Attila the Hunk
+
+176-Quick Draw McGore
+
+177-Prima Donna
+
+178-Samson Knight
+
+179-Psaro's Pawn
+
+180-Balzack
+
+181-Baalzack
+
+182-she-slime
+
+183-horny devil
+
+184-wimp
+
+185-dirty dogu
+
+186-paralyslicer
+
+187-medislime
+
+188-Estark
+
+190-Marquis de Léon
+
+191-tigergram
+
+192-tricksy
+
+193-Sir Roseguardin
+
+194-Kirk Buzzer
+
+205-Psaro the Manslayer
+
+206-Psaro the Manslayer
+
+207-Psaro the Manslayer
+
+208-Psaro the Manslayer
+
+209-Psaro the Manslayer
+
+210-Psaro the Manslayer
+
+212-winky
+
+213-sasquash
+
+214-moosifer
+
+215-copy of HERO
+
+216-copy of HERO
+
+217-copy of Ragnar
+
+218-copy of Alena
+
+219-copy of Kiryl
+
+220-copy of Borya
+
+221-copy of Torneko
+
+222-copy of Meena
+
+223-copy of Maya
+
+224-copy of Psaro
+
+225-Pandora's box
+
+226-scarewell
+
+227-well wisher
+
+228-knightshade
+
+229-decayurion
+
+230-bloody hand
+
+231-demon thunderer
+
+232-draguar
+
+233-platinum king jewel
+
+234-juggular
+
+235-cerberuff
+
+236-gnucifer
+
+237-div
+
+238-prism peacock
+
+239-testudogre
+
+240-drakulard
+
+241-togre
+
+242-high djinks
+
+243-perilwinkle
+
+244-shelligator
+
+245-croaked king
+
+246-seasaur
+
+300-Foo Yung
+
+301-Foo Yung
+
+302-Chow Mein
+
+303-Chow Mein
+
+304-Aamon
+
+305-Aamon
+
+306-Aamon
+
+307-Aamon
+
+308-Aamon
+

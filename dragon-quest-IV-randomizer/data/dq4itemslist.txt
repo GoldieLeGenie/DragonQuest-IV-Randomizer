@@ -1,0 +1,346 @@
+2	1	3	99		Weapons	cypress stick	
+
+2	2	3	99			oaken club	
+
+2	3	3	99			copper sword	
+
+2	4	3	99			iron claw	
+
+2	5	3	99			chain sickle	
+
+2	6	3	99			iron lance	
+
+2	7	3	99			steel broadsword	
+
+2	8	3	99			battle-axe	
+
+2	9	3	99			silver tarot cards	
+
+2	10	3	99			divine dagger	
+
+2	11	3	99			holy lance	
+
+2	12	3	99			hunter's bow	
+
+2	13	3	99			Astraea's abacus	
+
+2	14	3	99			iron fan	
+
+2	15	3	99			liquid metal sword	
+
+2	16	3	99			poison needle	
+
+2	17	3	99			somatic staff	
+
+2	18	3	99			lightning staff	
+
+2	19	3	99			Hela hammer	
+
+2	20	3	99			double-edged sword	
+
+2	21	3	99			dragonsbane	
+
+2	22	3	99			falcon knife earrings	
+
+2	23	3	99			staff of divine wrath	
+
+2	24	3	99			dream blade	
+
+2	25	3	99			poison moth knife	
+
+2	26	3	99			fire claw	
+
+2	27	3	99			icicle dirk	
+
+2	28	3	99			miracle sword	
+
+2	29	3	99			staff of antimagic	
+
+2	30	3	99			magma staff	
+
+2	31	3	99			massacre sword	
+
+2	32	3	99			staff of salvation	
+
+2	33	3	99			Zenithian Sword	
+
+2	34	3	99			Zenithian Sword	
+
+2	35	3	99			Thalian staff	
+
+2	36	3	99			cautery sword	
+
+2	37	3	99			falcon blade	
+
+2	38	3	99			demon spear	
+
+2	39	3	99			Gringham whip	
+
+2	40	3	99			flail of destruction	
+
+2	41	3	99			cobra claw	
+
+2	42	3	99			pandemonic sword	
+
+2	43	3	99		Armour	plain clothes	
+
+2	44	3	99			wayfarer's clothes	
+
+2	45	3	99			leather armour	
+
+2	46	3	99			chain mail	
+
+2	47	3	99			iron armour	
+
+2	48	3	99			iron apron	
+
+2	49	3	99			full plate armour	
+
+2	50	3	99			silk robe	
+
+2	51	3	99			dancer's costume	
+
+2	52	3	99			bronze armour	
+
+2	53	3	99			liquid metal armour	
+
+2	54	3	99			fur coat	
+
+2	55	3	99			leather dress	
+
+2	56	3	99			pink leotard	
+
+2	57	3	99			dragon mail	
+
+2	58	3	99			cloak of evasion	
+
+2	59	3	99			magic vestment	
+
+2	60	3	99			flowing dress	
+
+2	61	3	99			glombolero	
+
+2	62	3	99			Zenithian Armour	
+
+2	63	3	99			spiked armour	
+
+2	64	3	99			spangled dress	
+
+2	65	3	99			angel leotard	
+
+2	66	3	99			magical skirt	
+
+2	67	3	99			robe of serenity	
+
+2	68	3	99			zombie mail	
+
+2	69	3	99			shimmering dress	
+
+2	70	3	99			Hela's armour	
+
+2	71	3	99			boxer shorts	
+
+2	72	3	99			pandemonic armour	
+
+2	73	3	99		Shields	leather shield	
+
+2	74	3	99			scale shield	
+
+2	75	3	99			iron shield	
+
+2	76	3	99			power shield	
+
+2	77	3	99			mirror shield	
+
+2	78	3	99			tempest shield	
+
+2	79	3	99			dragon shield	
+
+2	80	3	99			Zenithian Shield	
+
+2	81	3	99			liquid metal shield	
+
+2	82	3	99			pandemonic shield	
+
+2	83	3	99		helmet	leather hat	
+
+2	84	3	99			hairband	
+
+2	85	3	99			hardwood headwear	
+
+2	86	3	99			iron helmet	
+
+2	87	3	99			iron mask	
+
+2	88	3	99			feathered cap	
+
+2	89	3	99			Zenithian Helm	
+
+2	90	3	99			death mask	
+
+2	91	3	99			golden tiara	
+
+2	92	3	99			happy hat	
+
+2	93	3	99			liquid metal helm	
+
+2	94	3	99			pandemonic helm	
+
+2	95	3	99		Accessories	meteorite bracer	
+
+2	96	3	99			lucida shard	
+
+2	97	3	99			Kamikazee bracer	
+
+2	98	3	99			Kerplunk bracer	
+
+2	99	3	99			gold bracer	
+
+2	100	3	99			fishnet stockings	
+
+2	101	3	99			ruby of protection	
+
+2	102	3	99			prayer ring	
+
+2	103	3	99			Goddess ring	
+
+2	104	3	99			gospel ring	
+
+2	105	3	99			elevating shoes	
+
+2	106	3	99			recovery ring	
+
+2	107	3	99			strength ring	
+
+2	108	3	99			bunny tail	
+
+2	109	3	99			Mercury's bandana	
+
+2	110	3	99			mighty armlet	
+
+2	111	3	99		Items	medicinal herb	
+
+2	112	3	99			antidotal herb	
+
+2	113	3	99			holy water	
+
+2	114	3	99			chimaera wing	
+
+2	115	3	99			moonwort bulb	
+
+2	116	3	99			musk	
+
+2	117	3	99			seed of strength	
+
+2	118	3	99			seed of agility	
+
+2	119	3	99			seed of wisdom	
+
+2	121	3	99			seed of life	
+
+2	122	3	99			seed of magic	
+
+2	120	3	99			seed of resilience	
+
+2	123	3	99			thief's key	
+
+2	124	3	99			magic key	
+
+2	125	3	99			ultimate key	
+
+2	126	3	99			magic water	
+
+2	127	3	99			Ra's mirror	
+
+2	128	3	99			packed lunch	
+
+2	129	3	99			horse manure	
+
+2	130	3	99			Yggdrasil leaf	
+
+2	131	3	99			Yggdrasil dew	
+
+2	132	3	99			mini medal	
+
+2	133	3	99		important items	talaria	
+
+2	134	3	99			armlet of transmutation	
+
+2	135	3	99			birdsong nectar	
+
+2	136	3	99			flute of revelation	
+
+2	137	3	99			steel strongbox	
+
+2	138	3	99			Prince's letter	
+
+2	139	3	99			royal scroll	
+
+2	140	3	99			silver Goddess statue	
+
+2	141	3	99			night light	
+
+2	142	3	99			sphere of silence	
+
+2	143	3	99			powder keg	
+
+2	144	3	99			boarding pass	
+
+2	145	3	99			symbol of faith	
+
+2	146	3	99			holy embers	
+
+2	147	3	99			treasure map	
+
+2	148	3	99			feverfew seed	
+
+2	149	3	99			feverfew root	
+
+2	150	3	99			karstaway stone	
+
+2	151	3	99			sands of time	
+
+2	152	3	99			mod rod	
+
+2	153	3	99			sage's stone	
+
+2	154	3	99			gas canister	
+
+2	155	3	99			baron's bugle	
+
+2	156	3	99			Yggdrasil flower	
+
+2	157	3	99			The Big Book of Beasts	
+
+2	158	3	99			steel strongbox	
+
+2	159	3	99		debug	None 159	
+
+2	160	3	99			mimic stone	
+
+2	161	3	99			blarney stone	
+
+2	162	3	99			None 162	
+
+2	163	3	99		Present code	princess's robe	
+
+2	164	3	99			dragon robe	
+
+2	165	3	99			magic shield	
+
+2	166	3	99			silver shield	
+
+2	167	3	99			floral parasol	
+
+2	168	3	99			ogre shield	
+
+2	169	3	99			top hat	
+
+2	170	3	99			great helm	
+
+2	171	3	99			golden tiara	
+
+2	172	3	99			Paxa Punch	
+
+2	173	3	99			amor seco essence	
+

@@ -1,0 +1,42 @@
+[
+    {
+        "item": 107,
+        "price": 15
+    },
+    {
+        "item": 101,
+        "price": 20
+    },
+    {
+        "item": 66,
+        "price": 25
+    },
+    {
+        "item": 23,
+        "price": 30
+    },
+    {
+        "item": 98,
+        "price": 34
+    },
+    {
+        "item": 28,
+        "price": 38
+    },
+    {
+        "item": 92,
+        "price": 43
+    },
+    {
+        "item": 110,
+        "price": 47
+    },
+    {
+        "item": 81,
+        "price": 52
+    },
+    {
+        "item": 39,
+        "price": 60
+    }
+]

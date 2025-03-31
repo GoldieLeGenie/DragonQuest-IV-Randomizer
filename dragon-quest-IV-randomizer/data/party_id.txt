@@ -1,0 +1,51 @@
+0	1	ALL
+
+-1	1	wagon@outside
+
+1	2	Hero
+
+3	2	Ragnar
+
+4	2	Alena
+
+5	2	Kiryl
+
+6	2	Borya
+
+7	2	Torneko
+
+8	2	Maya
+
+9	2	Meena
+
+25	2	Psaro
+
+12	4	Healie
+
+17	4	Laurel
+
+16	4	Hardie
+
+19	4	Oojam
+
+20	4	Hoffman
+
+21	4	Tom
+
+22	4	Orifiela
+
+23	4	Sparkie
+
+11	8	Aigneas
+
+10	8	Old Man
+
+13	8	Child1
+
+14	8	Child2
+
+15	8	Fido
+
+18	8	Puppadom
+
+24	8	Rose

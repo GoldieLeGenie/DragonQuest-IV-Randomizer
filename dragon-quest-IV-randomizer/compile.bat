@@ -1,0 +1,1 @@
+pyinstaller --icon=icon.ico --add-binary "data;." --add-binary "param;."  --add-data "gui.py;." --add-data "randomize_loot.py;." --add-data "randomize_mini_medals.py;." --add-data "utils.py;." --add-data "randomize_shop.py;." -F -w main.py
